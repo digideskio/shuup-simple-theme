@@ -1,1 +1,0 @@
-# shoop-default-theme
